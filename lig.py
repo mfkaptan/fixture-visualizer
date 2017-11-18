@@ -1,26 +1,8 @@
 import json
 from collections import OrderedDict
+from operator import itemgetter
 
-TEAMS = OrderedDict([
-    ("Galatasaray", 1),
-    ("Başakşehir", 2),
-    ("Kayserispor", 3),
-    ("Beşiktaş", 4),
-    ("Bursaspor", 5),
-    ("Fenerbahçe", 6),
-    ("Göztepe", 7),
-    ("Akhisarspor", 8),
-    ("Sivasspor", 9),
-    ("Alanyaspor", 10),
-    ("Malatyaspor", 11),
-    ("Trabzonspor", 12),
-    ("Kasımpaşa", 13),
-    ("Antalyaspor", 14),
-    ("Konyaspor", 15),
-    ("Karabükspor",16),
-    ("Osmanlıspor",17),
-    ("Gençlerbirliği",18)
-])
+TEAMS = None
 
 MATCHES = {}
 
@@ -36,6 +18,12 @@ def get_team(t):
             return team
 
 def main():
+    global TEAMS, MATCHES
+
+    with open("standings.json", "r") as stand:
+        t_dict = json.loads(stand.read())
+        TEAMS = OrderedDict((k, t_dict[k]) for k in sorted(t_dict, key=t_dict.get))
+
     with open("splig.json", "r") as sp:
         cal = OrderedDict(json.loads(sp.read()))["calendars"][0]["events"]
 
