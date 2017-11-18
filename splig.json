@@ -1,0 +1,2916 @@
+{
+    "calendars": [{
+        "version": "2.0",
+        "method": "PUBLISH",
+        "prodid": "tr.beinsports.com",
+        "events": [{
+            "description": "Süper Lig Galatasaray - Kayserispor",
+            "dtend": "20170814T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170814T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Kayserispor",
+            "uid": "f8ccfdcd-0f8f-45d7-8d86-afe65240eeaf"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Demir Grup Sivasspor",
+            "dtend": "20170812T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170812T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Demir Grup Sivasspor",
+            "uid": "6c7e93ac-f4a8-4416-8926-2800bbba742a"
+        }, {
+            "description": "Süper Lig Beşiktaş - Antalyaspor",
+            "dtend": "20170813T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170813T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Antalyaspor",
+            "uid": "950b7b4c-e301-4324-8229-d4dc038bf73a"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Osmanlıspor FK",
+            "dtend": "20170813T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170813T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Osmanlıspor FK",
+            "uid": "1102ac9f-1d78-4954-afa3-a75f785099d2"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Kasımpaşa",
+            "dtend": "20170812T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170812T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Kasımpaşa",
+            "uid": "11ac5a8c-9c49-4eb5-ae81-bc23c91debd0"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Bursaspor",
+            "dtend": "20170811T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170811T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Bursaspor",
+            "uid": "ea99b0a7-6f2f-4937-a39a-e9d75328a025"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Kardemir Karabükspor",
+            "dtend": "20170812T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170812T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Kardemir Karabükspor",
+            "uid": "911b7ddb-8f77-49bb-8d3a-42f7273664ce"
+        }, {
+            "description": "Süper Lig Trabzonspor - Atiker Konyaspor",
+            "dtend": "20170813T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170813T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Atiker Konyaspor",
+            "uid": "6177d7bf-4e0d-4988-9999-bb6f96f1cb8b"
+        }, {
+            "description": "Süper Lig Göztepe - Fenerbahçe",
+            "dtend": "20170812T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170812T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Fenerbahçe",
+            "uid": "add1f475-30fd-423f-8404-e4f4f32fefbe"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Evkur Yeni Malatyaspor",
+            "dtend": "20170819T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170819T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Evkur Yeni Malatyaspor",
+            "uid": "8e0900f9-e187-48ab-94d6-032f1a603cba"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Gençlerbirliği",
+            "dtend": "20170821T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170821T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Gençlerbirliği",
+            "uid": "cdbd64b7-3441-48c5-bb7e-9f5df50f73ce"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Medipol Başakşehir",
+            "dtend": "20170819T180000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170819T160000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Medipol Başakşehir",
+            "uid": "c142ae84-fb7d-4f1e-b427-469a02cbc37e"
+        }, {
+            "description": "Süper Lig Bursaspor - Aytemiz Alanyaspor",
+            "dtend": "20170819T184500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170819T164500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Aytemiz Alanyaspor",
+            "uid": "e5e3ffe3-bb74-4b18-8b3c-86536d5f7641"
+        }, {
+            "description": "Süper Lig Antalyaspor - Teleset Mob. Akhisarspor",
+            "dtend": "20170820T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170820T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Teleset Mob. Akhisarspor",
+            "uid": "b399094b-53a3-4c2c-94d8-ffcdc6aa3f36"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Galatasaray",
+            "dtend": "20170819T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170819T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Galatasaray",
+            "uid": "bdf18479-bc02-4f83-9782-a1c0c98566aa"
+        }, {
+            "description": "Süper Lig Kayserispor - Göztepe",
+            "dtend": "20170820T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170820T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Göztepe",
+            "uid": "7be60f4e-94a1-47dd-a2e8-32fb9aa9d1ae"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Beşiktaş",
+            "dtend": "20170818T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170818T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Beşiktaş",
+            "uid": "791ef794-9721-41b7-a484-2a588c673041"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Trabzonspor",
+            "dtend": "20170820T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170820T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Trabzonspor",
+            "uid": "a08de823-5d4d-4e61-afec-0e47b9990ab7"
+        }, {
+            "description": "Süper Lig Göztepe - Trabzonspor",
+            "dtend": "20170826T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170826T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Trabzonspor",
+            "uid": "ebe1a71c-d39a-4f5c-b9d9-70692f760355"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Antalyaspor",
+            "dtend": "20170826T184500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170826T164500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Antalyaspor",
+            "uid": "600798eb-5f1f-4a5c-84c9-0536688936dc"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Kardemir Karabükspor",
+            "dtend": "20170825T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170825T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Kardemir Karabükspor",
+            "uid": "dbcb62a6-bf4e-4727-a9af-49147735b079"
+        }, {
+            "description": "Süper Lig Galatasaray - Demir Grup Sivasspor",
+            "dtend": "20170825T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170825T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Demir Grup Sivasspor",
+            "uid": "c9162928-1830-4a66-9925-a1927ed4d42f"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Kasımpaşa",
+            "dtend": "20170827T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170827T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Kasımpaşa",
+            "uid": "349f4291-6b9d-410e-b485-30b865a93b60"
+        }, {
+            "description": "Süper Lig Beşiktaş - Bursaspor",
+            "dtend": "20170826T184500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170826T164500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Bursaspor",
+            "uid": "46bf3636-0a5a-47f8-bc3b-17f076107b43"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Fenerbahçe",
+            "dtend": "20170827T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170827T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Fenerbahçe",
+            "uid": "7d62c215-3799-4ecf-8408-4c638ac2705a"
+        }, {
+            "description": "Süper Lig Kayserispor - Osmanlıspor FK",
+            "dtend": "20170826T204500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170826T184500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Osmanlıspor FK",
+            "uid": "65973fa7-d62a-489e-854a-77994e246714"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Atiker Konyaspor",
+            "dtend": "20170827T184500Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170827T164500Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Atiker Konyaspor",
+            "uid": "72da6e85-7702-4243-9f88-6ab27f51f8db"
+        }, {
+            "description": "Süper Lig Bursaspor - Teleset Mob. Akhisarspor",
+            "dtend": "20170910T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170910T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Teleset Mob. Akhisarspor",
+            "uid": "b1b149d6-37a3-4768-9a09-994d1b20216e"
+        }, {
+            "description": "Süper Lig Antalyaspor - Galatasaray",
+            "dtend": "20170910T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170910T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Galatasaray",
+            "uid": "51d5c214-b1c0-4d2f-bab3-c6847ba980a2"
+        }, {
+            "description": "Süper Lig Trabzonspor - Gençlerbirliği",
+            "dtend": "20170910T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170910T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Gençlerbirliği",
+            "uid": "c5fad919-89f6-4657-b84d-94183e671913"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Beşiktaş",
+            "dtend": "20170909T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170909T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Beşiktaş",
+            "uid": "06d72d76-de3f-45ad-9a0f-3bbf8dee2e10"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Evkur Yeni Malatyaspor",
+            "dtend": "20170911T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170911T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Evkur Yeni Malatyaspor",
+            "uid": "f2e05d71-a502-4159-bf75-43b41a9ad5da"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Kayserispor",
+            "dtend": "20170909T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170909T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Kayserispor",
+            "uid": "197649f2-113e-44b6-8e42-99576ddd785b"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Göztepe",
+            "dtend": "20170910T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170910T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Göztepe",
+            "uid": "ab9e89da-d63e-472d-af33-97206171099f"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Aytemiz Alanyaspor",
+            "dtend": "20170909T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170909T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Aytemiz Alanyaspor",
+            "uid": "8759f5b7-5ae5-4ad2-acd5-0b248429b835"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Medipol Başakşehir",
+            "dtend": "20170909T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170909T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Medipol Başakşehir",
+            "uid": "6a5ceded-7e2b-4a87-bd22-169dc112f7fe"
+        }, {
+            "description": "Süper Lig Galatasaray - Kasımpaşa",
+            "dtend": "20170916T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170916T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Kasımpaşa",
+            "uid": "b70e525a-adbc-4a02-b687-92fdab55cd61"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Demir Grup Sivasspor",
+            "dtend": "20170917T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170917T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Demir Grup Sivasspor",
+            "uid": "88a29a4f-8b0a-4f1e-a43f-0e16ed232d0a"
+        }, {
+            "description": "Süper Lig Kayserispor - Antalyaspor",
+            "dtend": "20170915T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170915T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Antalyaspor",
+            "uid": "4ddeedc2-2214-41cb-add5-06cf7ef466a0"
+        }, {
+            "description": "Süper Lig Göztepe - Gençlerbirliği",
+            "dtend": "20170917T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170917T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Gençlerbirliği",
+            "uid": "27d05efe-6f21-4dd5-a852-82ce33d28961"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Bursaspor",
+            "dtend": "20170916T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170916T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Bursaspor",
+            "uid": "621e97db-9ffa-4d6d-8a7e-f8a9a074af49"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Kardemir Karabükspor",
+            "dtend": "20170916T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170916T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Kardemir Karabükspor",
+            "uid": "4a8cbefa-7051-45bf-a96c-99e19c04ee20"
+        }, {
+            "description": "Süper Lig Beşiktaş - Atiker Konyaspor",
+            "dtend": "20170918T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170918T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Atiker Konyaspor",
+            "uid": "fa269382-8bb1-4bf2-8953-d4f9326be85b"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Fenerbahçe",
+            "dtend": "20170917T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170917T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Fenerbahçe",
+            "uid": "12d46a20-276f-4611-9f32-6df033e0a141"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Trabzonspor",
+            "dtend": "20170917T160000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170917T140000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Trabzonspor",
+            "uid": "2843355e-2d47-48ef-b3d6-b6b0d8caab70"
+        }, {
+            "description": "Süper Lig Antalyaspor - Osmanlıspor FK",
+            "dtend": "20170925T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170925T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Osmanlıspor FK",
+            "uid": "ecc045d7-1c8e-4cf4-96fa-651b2f83ec63"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Göztepe",
+            "dtend": "20170924T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170924T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Göztepe",
+            "uid": "f0d0326f-1faa-4cc4-a3d8-6b1a306f8827"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Beşiktaş",
+            "dtend": "20170923T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170923T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Beşiktaş",
+            "uid": "cbdb2d53-b301-485e-890d-491dbc6dde95"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Evkur Yeni Malatyaspor",
+            "dtend": "20170924T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170924T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Evkur Yeni Malatyaspor",
+            "uid": "07083209-7adb-43d5-a708-14ee0b737400"
+        }, {
+            "description": "Süper Lig Bursaspor - Galatasaray",
+            "dtend": "20170924T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170924T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Galatasaray",
+            "uid": "8ed756cc-60bf-45cc-9ec2-bf36e12a3635"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Kayserispor",
+            "dtend": "20170924T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170924T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Kayserispor",
+            "uid": "f1458bd6-989a-45d4-a8dd-949fd3ada03e"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Medipol Başakşehir",
+            "dtend": "20170923T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170923T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Medipol Başakşehir",
+            "uid": "ef781932-0bce-453d-b6bb-e5ae78f7c59a"
+        }, {
+            "description": "Süper Lig Trabzonspor - Aytemiz Alanyaspor",
+            "dtend": "20170922T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170922T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Aytemiz Alanyaspor",
+            "uid": "dde2160e-145a-4bde-9c6d-0c0f93b74719"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Teleset Mob. Akhisarspor",
+            "dtend": "20170923T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170923T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Teleset Mob. Akhisarspor",
+            "uid": "01025cac-96bc-480c-b142-e9e481f82c5a"
+        }, {
+            "description": "Süper Lig Galatasaray - Kardemir Karabükspor",
+            "dtend": "20170930T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170930T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Kardemir Karabükspor",
+            "uid": "240d80ea-6b90-47d5-b2b3-8ee9ad28113e"
+        }, {
+            "description": "Süper Lig Beşiktaş - Trabzonspor",
+            "dtend": "20171001T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171001T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Trabzonspor",
+            "uid": "0dc6248a-27fa-4a9a-b42e-d969d61d927c"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Antalyaspor",
+            "dtend": "20170930T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170930T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Antalyaspor",
+            "uid": "255f23bc-8b22-475c-a0c8-a2e93a348caf"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Atiker Konyaspor",
+            "dtend": "20171001T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171001T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Atiker Konyaspor",
+            "uid": "925c4888-e3f5-4d2b-a3a4-6fee21d8b432"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Fenerbahçe",
+            "dtend": "20170929T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170929T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Fenerbahçe",
+            "uid": "e2f09ef5-6c3d-445e-b499-190b8334f394"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Gençlerbirliği",
+            "dtend": "20171001T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171001T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Gençlerbirliği",
+            "uid": "8e073875-0871-4de4-ba9d-2f111a7b666a"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Kasımpaşa",
+            "dtend": "20170930T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170930T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Kasımpaşa",
+            "uid": "da9ece1f-d7c9-4ea0-b920-ec36b677d8cb"
+        }, {
+            "description": "Süper Lig Kayserispor - Bursaspor",
+            "dtend": "20170930T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20170930T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Bursaspor",
+            "uid": "2e2535bb-ee74-4a83-9d9c-f3761bb2db17"
+        }, {
+            "description": "Süper Lig Göztepe - Medipol Başakşehir",
+            "dtend": "20171001T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171001T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Medipol Başakşehir",
+            "uid": "98aa9f6d-b2b6-4270-9d62-7994d40a2d90"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Evkur Yeni Malatyaspor",
+            "dtend": "20171015T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171015T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Evkur Yeni Malatyaspor",
+            "uid": "4ce46bb7-ff7c-468a-b0fe-a3a5e5a39a87"
+        }, {
+            "description": "Süper Lig Bursaspor - Osmanlıspor FK",
+            "dtend": "20171016T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171016T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Osmanlıspor FK",
+            "uid": "cfcb71a3-012f-46ac-8506-86bca47d7636"
+        }, {
+            "description": "Süper Lig Trabzonspor - Teleset Mob. Akhisarspor",
+            "dtend": "20171015T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171015T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Teleset Mob. Akhisarspor",
+            "uid": "80ccefbe-37e7-4069-b6cb-9c3f915cb9c4"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Kayserispor",
+            "dtend": "20171014T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171014T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Kayserispor",
+            "uid": "439de6df-dd94-4f13-aec0-bfc0b2c52f81"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Demir Grup Sivasspor",
+            "dtend": "20171015T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171015T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Demir Grup Sivasspor",
+            "uid": "6f0a0224-ea3b-4306-89f8-f3c707f1df7f"
+        }, {
+            "description": "Süper Lig Antalyaspor - Göztepe",
+            "dtend": "20171014T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171014T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Göztepe",
+            "uid": "96ef96fa-fed7-4c0b-aa63-f49a8c046109"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Aytemiz Alanyaspor",
+            "dtend": "20171014T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171014T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Aytemiz Alanyaspor",
+            "uid": "50a8071e-46c2-4d36-bd6d-85e7e58840e3"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Beşiktaş",
+            "dtend": "20171013T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171013T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Beşiktaş",
+            "uid": "67a39d7c-35f5-4813-b00f-66eb730b472b"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Galatasaray",
+            "dtend": "20171014T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171014T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Galatasaray",
+            "uid": "c3a77716-2b20-4f6e-b075-797a1281f08a"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Gençlerbirliği",
+            "dtend": "20171021T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171021T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Gençlerbirliği",
+            "uid": "82fadb26-d7b9-420c-8ae2-548e7d9c9a5a"
+        }, {
+            "description": "Süper Lig Antalyaspor - Kasımpaşa",
+            "dtend": "20171020T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171020T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Kasımpaşa",
+            "uid": "bb49ecb8-7591-4b10-8fa4-ea42230840dc"
+        }, {
+            "description": "Süper Lig Kayserispor - Atiker Konyaspor",
+            "dtend": "20171022T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171022T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Atiker Konyaspor",
+            "uid": "244f94b4-4efd-413e-ab10-2c36377b4deb"
+        }, {
+            "description": "Süper Lig Galatasaray - Fenerbahçe",
+            "dtend": "20171022T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171022T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Fenerbahçe",
+            "uid": "d5c81797-4768-4763-bed8-2a89506068bd"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Trabzonspor",
+            "dtend": "20171021T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171021T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Trabzonspor",
+            "uid": "d8a8869f-8dc7-4729-a66b-4429fbac0e76"
+        }, {
+            "description": "Süper Lig Beşiktaş - Medipol Başakşehir",
+            "dtend": "20171023T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171023T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Medipol Başakşehir",
+            "uid": "fa63a024-522c-45d9-87c4-69cc6e7c0fc4"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Bursaspor",
+            "dtend": "20171022T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171022T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Bursaspor",
+            "uid": "c6650473-9f3d-4cb5-bcda-1f0cbe4499ac"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Kardemir Karabükspor",
+            "dtend": "20171021T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171021T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Kardemir Karabükspor",
+            "uid": "751a6c62-13b9-472e-bef8-bd5af36aa01b"
+        }, {
+            "description": "Süper Lig Göztepe - Aytemiz Alanyaspor",
+            "dtend": "20171020T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171020T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Aytemiz Alanyaspor",
+            "uid": "9b58d2c4-62bb-4c1e-81eb-61b756755937"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Evkur Yeni Malatyaspor",
+            "dtend": "20171028T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171028T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Evkur Yeni Malatyaspor",
+            "uid": "de2c3f04-ec74-454c-9330-b0a2bb4f2b84"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Osmanlıspor FK",
+            "dtend": "20171029T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171029T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Osmanlıspor FK",
+            "uid": "3eb53591-a98a-440e-8d67-c543f4abbe5f"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Kayserispor",
+            "dtend": "20171030T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171030T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Kayserispor",
+            "uid": "31764c67-1910-41d5-a745-74987eac802b"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Demir Grup Sivasspor",
+            "dtend": "20171029T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171029T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Demir Grup Sivasspor",
+            "uid": "3682f8b0-5d5a-4a09-868b-9e8de4dfb741"
+        }, {
+            "description": "Süper Lig Bursaspor - Antalyaspor",
+            "dtend": "20171029T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171029T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Antalyaspor",
+            "uid": "ba953d87-52b6-47cc-b1bf-f2f007606bf4"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Göztepe",
+            "dtend": "20171027T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171027T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Göztepe",
+            "uid": "58ba9011-f4e3-4787-a2dd-4e8e46279b0a"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Beşiktaş",
+            "dtend": "20171028T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171028T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Beşiktaş",
+            "uid": "21b335f3-a4d6-43ea-8efc-2fb16407bc4a"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Teleset Mob. Akhisarspor",
+            "dtend": "20171028T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171028T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Teleset Mob. Akhisarspor",
+            "uid": "a8c96c8c-251e-4017-9b56-f18c95e74015"
+        }, {
+            "description": "Süper Lig Trabzonspor - Galatasaray",
+            "dtend": "20171029T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171029T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Galatasaray",
+            "uid": "792700bb-00b5-4f65-9582-59884d4d6b2c"
+        }, {
+            "description": "Süper Lig Antalyaspor - Kardemir Karabükspor",
+            "dtend": "20171104T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171104T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Kardemir Karabükspor",
+            "uid": "31fbd913-c091-44a5-9981-079568942c83"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Atiker Konyaspor",
+            "dtend": "20171105T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171105T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Atiker Konyaspor",
+            "uid": "2bd1bda2-a30e-4efd-9895-ca5390a31437"
+        }, {
+            "description": "Süper Lig Göztepe - Beşiktaş",
+            "dtend": "20171105T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171105T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Beşiktaş",
+            "uid": "5aaf7cd8-19ce-4862-b78f-9db5600afdfb"
+        }, {
+            "description": "Süper Lig Galatasaray - Gençlerbirliği",
+            "dtend": "20171103T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171103T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Gençlerbirliği",
+            "uid": "b5c45c66-e6a0-4f74-a920-e51f20fe4269"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Medipol Başakşehir",
+            "dtend": "20171105T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171105T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Medipol Başakşehir",
+            "uid": "7ff65a9d-7e7d-49a5-8b02-da4dcbd1f005"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Aytemiz Alanyaspor",
+            "dtend": "20171105T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171105T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Aytemiz Alanyaspor",
+            "uid": "2da2fe41-88cc-4425-bcf3-5be46d498300"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Bursaspor",
+            "dtend": "20171104T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171104T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Bursaspor",
+            "uid": "b3b3ddda-83ff-4925-91db-ee9351874544"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Fenerbahçe",
+            "dtend": "20171104T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171104T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Fenerbahçe",
+            "uid": "405c035d-6ce5-4566-bbd3-de7644675720"
+        }, {
+            "description": "Süper Lig Kayserispor - Trabzonspor",
+            "dtend": "20171104T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171104T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Trabzonspor",
+            "uid": "d74f5c83-8868-4a47-96c3-db5ce60d679d"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Evkur Yeni Malatyaspor",
+            "dtend": "20171119T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171119T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Evkur Yeni Malatyaspor",
+            "uid": "ba7a2b4e-545b-4764-9748-83294887cbc8"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Kayserispor",
+            "dtend": "20171119T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171119T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Kayserispor",
+            "uid": "e031c404-a0ad-459e-add6-f8cfab4cabbd"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Antalyaspor",
+            "dtend": "20171118T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171118T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Antalyaspor",
+            "uid": "18ae7e12-8aba-4321-8601-ccecdd59503f"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Demir Grup Sivasspor",
+            "dtend": "20171119T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171119T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Demir Grup Sivasspor",
+            "uid": "ccbc5e44-96f8-4f72-ba92-62158af96b53"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Kasımpaşa",
+            "dtend": "20171120T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171120T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Kasımpaşa",
+            "uid": "d996079e-060d-4c22-895d-13fef3d80537"
+        }, {
+            "description": "Süper Lig Bursaspor - Göztepe",
+            "dtend": "20171118T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171118T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Göztepe",
+            "uid": "aee0e98d-5532-42cd-8925-b54b417283be"
+        }, {
+            "description": "Süper Lig Beşiktaş - Teleset Mob. Akhisarspor",
+            "dtend": "20171117T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171117T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Teleset Mob. Akhisarspor",
+            "uid": "da040658-204f-4739-8bc9-bce8feab6553"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Galatasaray",
+            "dtend": "20171118T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171118T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Galatasaray",
+            "uid": "26fa2a2d-6ef1-4939-bfeb-83e2ca692991"
+        }, {
+            "description": "Süper Lig Trabzonspor - Osmanlıspor FK",
+            "dtend": "20171119T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171119T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Osmanlıspor FK",
+            "uid": "4e4c3960-ff3f-4b01-aad9-3d00514d701f"
+        }, {
+            "description": "Süper Lig Galatasaray - Aytemiz Alanyaspor",
+            "dtend": "20171125T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171125T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Aytemiz Alanyaspor",
+            "uid": "6812066b-9a98-4acd-a06f-50c6ee0b62ef"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Trabzonspor",
+            "dtend": "20171126T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171126T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Trabzonspor",
+            "uid": "107ff719-a732-4d67-9115-9bdd5e0bbd4a"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Gençlerbirliği",
+            "dtend": "20171124T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171124T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Gençlerbirliği",
+            "uid": "6850025b-cbbc-48eb-bd70-c1361b153a8d"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Beşiktaş",
+            "dtend": "20171125T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171125T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Beşiktaş",
+            "uid": "e9016cd3-85a2-4515-b85f-2e911e658f2c"
+        }, {
+            "description": "Süper Lig Bursaspor - Kardemir Karabükspor",
+            "dtend": "20171126T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171126T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Kardemir Karabükspor",
+            "uid": "2b754784-db2f-455e-a8c5-5e9e2f4d626b"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Atiker Konyaspor",
+            "dtend": "20171126T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171126T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Atiker Konyaspor",
+            "uid": "2d5dbb69-5cca-4e7c-bb2d-f48919d4c946"
+        }, {
+            "description": "Süper Lig Antalyaspor - Fenerbahçe",
+            "dtend": "20171126T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171126T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Fenerbahçe",
+            "uid": "e7826781-3eb1-46b4-9c09-ab94cadee3e3"
+        }, {
+            "description": "Süper Lig Kayserispor - Medipol Başakşehir",
+            "dtend": "20171127T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171127T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Medipol Başakşehir",
+            "uid": "b1b2d517-0ec1-4e18-858f-025e150d4027"
+        }, {
+            "description": "Süper Lig Göztepe - Teleset Mob. Akhisarspor",
+            "dtend": "20171125T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171125T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Teleset Mob. Akhisarspor",
+            "uid": "a87eea2b-b164-4150-8bbc-c67837b3708f"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Evkur Yeni Malatyaspor",
+            "dtend": "20171202T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171202T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Evkur Yeni Malatyaspor",
+            "uid": "5d53d97c-b89a-4925-af7c-d3e8fb78e732"
+        }, {
+            "description": "Süper Lig Beşiktaş - Galatasaray",
+            "dtend": "20171202T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171202T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Galatasaray",
+            "uid": "3c7468b8-f8e9-4e31-8d4f-dc6dc0e1c38c"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Bursaspor",
+            "dtend": "20171203T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171203T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Bursaspor",
+            "uid": "a58b9bb3-0699-4ddd-9aa0-54c18cfc7a41"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Kasımpaşa",
+            "dtend": "20171203T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171203T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Kasımpaşa",
+            "uid": "1717e6cf-60a5-434a-a0d6-d9a6008a48c8"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Göztepe",
+            "dtend": "20171202T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171202T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Göztepe",
+            "uid": "e04a859f-bd3a-4264-8aac-3a8f29b897c2"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Kayserispor",
+            "dtend": "20171204T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171204T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Kayserispor",
+            "uid": "4caa21bc-9fa4-40fb-a7ce-6291b1d62b09"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Osmanlıspor FK",
+            "dtend": "20171203T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171203T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Osmanlıspor FK",
+            "uid": "24abfbb5-6fe4-4398-833d-8b9aa7b712e7"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Demir Grup Sivasspor",
+            "dtend": "20171203T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171203T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Demir Grup Sivasspor",
+            "uid": "77c13e00-2b6a-4079-9fdb-02a0f3bf6394"
+        }, {
+            "description": "Süper Lig Trabzonspor - Antalyaspor",
+            "dtend": "20171204T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171204T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Antalyaspor",
+            "uid": "ad200ce4-3cf3-4e73-b88b-e5df5d25553c"
+        }, {
+            "description": "Süper Lig Galatasaray - Teleset Mob. Akhisarspor",
+            "dtend": "20171209T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171209T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Teleset Mob. Akhisarspor",
+            "uid": "afda2df0-0195-49dd-b988-f0f63bda23d8"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Trabzonspor",
+            "dtend": "20171209T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171209T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Trabzonspor",
+            "uid": "deaea531-ef04-499c-a094-af3fd9782b7e"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Aytemiz Alanyaspor",
+            "dtend": "20171210T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171210T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Aytemiz Alanyaspor",
+            "uid": "810921a9-f7f0-40eb-b00c-95b5a06b15d2"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Göztepe",
+            "dtend": "20171209T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171209T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Göztepe",
+            "uid": "8e5c27f6-9d41-4c14-964e-621604731cfc"
+        }, {
+            "description": "Süper Lig Bursaspor - Fenerbahçe",
+            "dtend": "20171208T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171208T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Fenerbahçe",
+            "uid": "3bfe6d6e-57f8-429c-8d4d-3967a225ce60"
+        }, {
+            "description": "Süper Lig Antalyaspor - Gençlerbirliği",
+            "dtend": "20171209T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171209T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Gençlerbirliği",
+            "uid": "ce2c310d-2c49-460b-a5b1-42ab36482583"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Medipol Başakşehir",
+            "dtend": "20171210T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171210T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Medipol Başakşehir",
+            "uid": "e63ed4a0-b634-4f30-927c-6f9f0a624b22"
+        }, {
+            "description": "Süper Lig Kayserispor - Beşiktaş",
+            "dtend": "20171210T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171210T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Beşiktaş",
+            "uid": "b0c0be7c-a171-4628-a610-d2b43fdce4e8"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Kardemir Karabükspor",
+            "dtend": "20171211T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171211T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Kardemir Karabükspor",
+            "uid": "61ac9237-5f2e-4bd4-a994-6092ee0fea78"
+        }, {
+            "description": "Süper Lig Beşiktaş - Osmanlıspor FK",
+            "dtend": "20171217T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171217T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Osmanlıspor FK",
+            "uid": "fac753cb-461f-4a52-be4d-66690490b0aa"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Kasımpaşa",
+            "dtend": "20171216T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171216T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Kasımpaşa",
+            "uid": "d66ae73f-438c-4905-8d74-bcd7bc08ab1f"
+        }, {
+            "description": "Süper Lig Göztepe - Atiker Konyaspor",
+            "dtend": "20171218T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171218T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Atiker Konyaspor",
+            "uid": "7c62223a-5773-4033-97c0-bbf89d8c34ff"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Kardemir Karabükspor",
+            "dtend": "20171218T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171218T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Kardemir Karabükspor",
+            "uid": "5f82450b-4992-4056-a441-5bf810a96fe9"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Galatasaray",
+            "dtend": "20171217T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171217T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Galatasaray",
+            "uid": "e37ab33b-964e-445c-8916-50924bfee26b"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Kayserispor",
+            "dtend": "20171217T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171217T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Kayserispor",
+            "uid": "210985a6-46c6-4adc-bc93-1164c0d72801"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Demir Grup Sivasspor",
+            "dtend": "20171216T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171216T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Demir Grup Sivasspor",
+            "uid": "ebe80a1e-335d-456c-80d3-698346672a4f"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Antalyaspor",
+            "dtend": "20171217T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171217T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Antalyaspor",
+            "uid": "698c2d5b-75fb-40b0-8c8a-810d36144670"
+        }, {
+            "description": "Süper Lig Trabzonspor - Bursaspor",
+            "dtend": "20171216T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171216T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Bursaspor",
+            "uid": "ba57643b-13f2-4fec-81fb-267d79c3a860"
+        }, {
+            "description": "Süper Lig Galatasaray - Göztepe",
+            "dtend": "20171224T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171224T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Göztepe",
+            "uid": "9d1c17e4-8c1f-485c-82c8-db6287bdc600"
+        }, {
+            "description": "Süper Lig Antalyaspor - Aytemiz Alanyaspor",
+            "dtend": "20171222T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171222T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Aytemiz Alanyaspor",
+            "uid": "458ff337-6864-42bc-97bc-b6f16bf5a77a"
+        }, {
+            "description": "Süper Lig Kayserispor - Evkur Yeni Malatyaspor",
+            "dtend": "20171224T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171224T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Evkur Yeni Malatyaspor",
+            "uid": "796b948f-a509-484c-9752-abd5ceba6aad"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Trabzonspor",
+            "dtend": "20171224T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171224T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Trabzonspor",
+            "uid": "ecf1d5dc-572d-46cf-bef4-f805ccefcbc8"
+        }, {
+            "description": "Süper Lig Bursaspor - Gençlerbirliği",
+            "dtend": "20171223T130000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171223T110000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Gençlerbirliği",
+            "uid": "13e11f2d-932c-4661-95d2-500d5a5e1797"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Medipol Başakşehir",
+            "dtend": "20171224T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171224T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Medipol Başakşehir",
+            "uid": "2d6730f1-9245-4f11-9ca6-68ef491e430d"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Beşiktaş",
+            "dtend": "20171223T153000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171223T133000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Beşiktaş",
+            "uid": "f770e786-b7ca-4f6f-bb01-16c96af8ab14"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Teleset Mob. Akhisarspor",
+            "dtend": "20171225T190000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171225T170000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Teleset Mob. Akhisarspor",
+            "uid": "48f68932-0e43-4c77-bacc-e3b1c35549bf"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Fenerbahçe",
+            "dtend": "20171223T183000Z",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": "20171223T163000Z",
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Fenerbahçe",
+            "uid": "80403a83-f302-4b03-85be-4897277e6531"
+        }, {
+            "description": "Süper Lig Kayserispor - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Galatasaray",
+            "uid": "8267e124-04c3-4605-b466-9361efb82c0a"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Teleset Mob. Akhisarspor",
+            "uid": "43392ad7-d680-420e-806a-a1f7d5e53679"
+        }, {
+            "description": "Süper Lig Antalyaspor - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Beşiktaş",
+            "uid": "1dc2eef4-be84-4b6e-ba80-8b303d427a7e"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Evkur Yeni Malatyaspor",
+            "uid": "a05f4207-97d9-4231-8563-d2cba7cac0ba"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Aytemiz Alanyaspor",
+            "uid": "65f652ef-86b4-4a53-ad05-27c5d930b8dd"
+        }, {
+            "description": "Süper Lig Bursaspor - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Medipol Başakşehir",
+            "uid": "7cfce32a-94af-480e-9455-c3b220911653"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Gençlerbirliği",
+            "uid": "c335691e-d8e3-450e-83bf-dd47cb2260fc"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Trabzonspor",
+            "uid": "762d247c-e4ae-4eb9-9373-f45d18f2d1ae"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180121", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Göztepe",
+            "uid": "0a1b6e41-043e-4b85-aa49-6cf9576b6625"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Demir Grup Sivasspor",
+            "uid": "f2cf93b4-2a88-4398-bc49-d6f84fa835a2"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Atiker Konyaspor",
+            "uid": "5d3ae513-f2e8-4e6b-8e21-8f8ab9c8e8c6"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Kardemir Karabükspor",
+            "uid": "a1c2340b-6d45-45ba-851b-044560913ca7"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Bursaspor",
+            "uid": "f5ae1645-7d45-4b45-a5c1-227a52386f84"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Antalyaspor",
+            "uid": "44cfb38e-eb95-46cf-baeb-ab4e85a4b4c6"
+        }, {
+            "description": "Süper Lig Galatasaray - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Osmanlıspor FK",
+            "uid": "12511d79-1f02-469b-be7f-bc25e26b06e7"
+        }, {
+            "description": "Süper Lig Göztepe - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Kayserispor",
+            "uid": "629a87c1-09dc-4207-814a-7ed49ab06ec6"
+        }, {
+            "description": "Süper Lig Beşiktaş - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Kasımpaşa",
+            "uid": "601a099b-a204-4107-9590-4a5d80af1785"
+        }, {
+            "description": "Süper Lig Trabzonspor - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180128", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Fenerbahçe",
+            "uid": "bbfb1ab7-6562-43bc-8a9c-6813590fdd1a"
+        }, {
+            "description": "Süper Lig Trabzonspor - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Göztepe",
+            "uid": "9c93a507-aaf6-4051-8e3c-60da0e6a23c3"
+        }, {
+            "description": "Süper Lig Antalyaspor - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Evkur Yeni Malatyaspor",
+            "uid": "09758a08-7bc6-4eab-85d4-a6e6f60ebc5f"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Aytemiz Alanyaspor",
+            "uid": "b8a3426a-9f30-44fb-b6fc-f3e92c1df687"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Galatasaray",
+            "uid": "4ceb5e19-5228-4a20-8cc2-4fb3cf5bc16a"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Teleset Mob. Akhisarspor",
+            "uid": "d1c8921d-c192-4939-82bf-ec1fe10d52c0"
+        }, {
+            "description": "Süper Lig Bursaspor - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Beşiktaş",
+            "uid": "c7303053-f68e-48ef-b0de-66d62284fee1"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Gençlerbirliği",
+            "uid": "5fd68a2e-5075-4f72-b974-2d5b961b9fb5"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Kayserispor",
+            "uid": "826e86be-aaba-40f7-950d-9ff493be2615"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180204", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Medipol Başakşehir",
+            "uid": "ffd7be58-32c9-446e-933f-fca858fdc2bd"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Bursaspor",
+            "uid": "c6fd0a4c-295f-454c-95ce-7526650c18d8"
+        }, {
+            "description": "Süper Lig Galatasaray - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Antalyaspor",
+            "uid": "869a6418-85c2-4850-af7b-52b05529c45c"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Trabzonspor",
+            "uid": "9ba2e71e-06d0-4fbc-8a54-95071347c57a"
+        }, {
+            "description": "Süper Lig Beşiktaş - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Kardemir Karabükspor",
+            "uid": "c892bf32-500d-4886-ab83-f22ee9931a2f"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Kasımpaşa",
+            "uid": "0260b45e-89c3-4794-b927-b8f36e2438cb"
+        }, {
+            "description": "Süper Lig Kayserispor - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Demir Grup Sivasspor",
+            "uid": "9db753fc-7640-4490-a81f-f407466a6d15"
+        }, {
+            "description": "Süper Lig Göztepe - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Osmanlıspor FK",
+            "uid": "ed5679c8-974e-4634-94dd-1e83f7d69515"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Atiker Konyaspor",
+            "uid": "01cd1f45-c8b6-4d6e-bbcc-8e5a107d8fee"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180211", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Fenerbahçe",
+            "uid": "f456d247-a218-49d0-834a-af4c11e25ab8"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Galatasaray",
+            "uid": "35acb646-22ba-433b-858e-e8f868537e44"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Osmanlıspor FK",
+            "uid": "3998286c-f86c-4f4c-b2e7-c49ba77940e3"
+        }, {
+            "description": "Süper Lig Antalyaspor - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Kayserispor",
+            "uid": "81001c1d-1206-41fb-b53a-2da96757f8c2"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Göztepe",
+            "uid": "a5a08925-16f7-4379-be98-41e11d3efb47"
+        }, {
+            "description": "Süper Lig Bursaspor - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Evkur Yeni Malatyaspor",
+            "uid": "add367c9-ee0b-455f-b324-e3c98d59cffd"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Teleset Mob. Akhisarspor",
+            "uid": "2275f270-99c6-49a5-81cc-7b6511cae191"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Beşiktaş",
+            "uid": "1c10eb0c-cac1-4ada-9f8f-10e7b3c479bb"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Aytemiz Alanyaspor",
+            "uid": "6c9a2e6b-2802-4f03-9578-19d22fdda121"
+        }, {
+            "description": "Süper Lig Trabzonspor - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180218", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Medipol Başakşehir",
+            "uid": "1b4fea29-7256-4e9c-9047-ae21ea63d959"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Antalyaspor",
+            "uid": "856760b6-07d1-4e67-9415-3d7e0245ea90"
+        }, {
+            "description": "Süper Lig Göztepe - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Demir Grup Sivasspor",
+            "uid": "9977245f-a4e1-4898-aea8-41348400f715"
+        }, {
+            "description": "Süper Lig Beşiktaş - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Fenerbahçe",
+            "uid": "49235216-eb1d-479e-ba01-785d6ce14d15"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Kardemir Karabükspor",
+            "uid": "81132abb-7d19-49f9-af89-9e7988e0979f"
+        }, {
+            "description": "Süper Lig Galatasaray - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Bursaspor",
+            "uid": "15c8d314-a233-4af2-81b8-34e1306eb39e"
+        }, {
+            "description": "Süper Lig Kayserispor - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Kasımpaşa",
+            "uid": "506eae15-4a32-47d8-87a4-5ca7eca8ecd3"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Gençlerbirliği",
+            "uid": "80c90859-c084-49aa-ae15-0d6aab8dfcb5"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Trabzonspor",
+            "uid": "4a3969d3-730a-4a02-9086-dd0160116b7c"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180225", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Atiker Konyaspor",
+            "uid": "a0b92809-de5e-4eab-93a5-72437df7bc50"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Galatasaray",
+            "uid": "9f8246ef-34f3-41b9-88ba-affce37b602d"
+        }, {
+            "description": "Süper Lig Trabzonspor - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Beşiktaş",
+            "uid": "eea3f8c2-2eb4-48e1-a8a5-759e4b43f7a1"
+        }, {
+            "description": "Süper Lig Antalyaspor - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Demir Grup Sivasspor",
+            "uid": "3ebd85b1-2563-4d9d-bf60-bed0ccc3d5b9"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Evkur Yeni Malatyaspor",
+            "uid": "a72cf15c-210e-445e-b92a-253f0528a0a7"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Teleset Mob. Akhisarspor",
+            "uid": "6c2dfb08-dcc8-43d2-870a-3f18cabd10e7"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Aytemiz Alanyaspor",
+            "uid": "19671eee-1447-4cf8-a22d-c6ae9b3f3e90"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Osmanlıspor FK",
+            "uid": "4f57d514-70c0-4a9e-bc1e-6e4a13e175ba"
+        }, {
+            "description": "Süper Lig Bursaspor - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Kayserispor",
+            "uid": "b2263395-6a50-4908-81ff-0c8d5976cb3e"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180304", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Göztepe",
+            "uid": "0b7496f9-e4b3-4eb1-87aa-b3f75abf8819"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Fenerbahçe",
+            "uid": "ad6f6423-4e30-48f1-94f7-a2c7bc5805bb"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Bursaspor",
+            "uid": "6f95846d-74f6-45ca-8fc0-d493981b5b19"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Trabzonspor",
+            "uid": "49bd7f13-e612-4080-842d-2d1cc5544455"
+        }, {
+            "description": "Süper Lig Kayserispor - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Kardemir Karabükspor",
+            "uid": "be66d5f4-d914-4942-a7e0-2e3aad62412d"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Kasımpaşa",
+            "uid": "8c37ac68-a758-4316-8593-74fba63e67a8"
+        }, {
+            "description": "Süper Lig Göztepe - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Antalyaspor",
+            "uid": "4b887fb9-8371-4eaf-931a-988c8fb1e64e"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Medipol Başakşehir",
+            "uid": "382c8fe6-288e-47c1-95fd-e4324e915c77"
+        }, {
+            "description": "Süper Lig Beşiktaş - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Gençlerbirliği",
+            "uid": "87460e93-4406-43ef-9885-b0296e783c59"
+        }, {
+            "description": "Süper Lig Galatasaray - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180311", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Atiker Konyaspor",
+            "uid": "8c833358-7592-4bc3-a0e1-d15a6fa3a796"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Teleset Mob. Akhisarspor",
+            "uid": "c9ad35f6-239c-4da5-891a-5701bfe67076"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Antalyaspor",
+            "uid": "26f6ec75-74d4-4e9c-aff4-888880033765"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Kayserispor",
+            "uid": "15b7ab52-dda2-4d2d-98bc-11bf099759d2"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Galatasaray",
+            "uid": "c24ca06b-6462-4b0e-8948-c81a1982c2e3"
+        }, {
+            "description": "Süper Lig Trabzonspor - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Evkur Yeni Malatyaspor",
+            "uid": "33492fc2-5db9-4f8b-95f8-83d8fceb3622"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Beşiktaş",
+            "uid": "f77780f5-0f25-4ae4-ab8b-afa4918135c0"
+        }, {
+            "description": "Süper Lig Bursaspor - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Demir Grup Sivasspor",
+            "uid": "eaea3101-e2e4-48e8-a742-44ee04133172"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Osmanlıspor FK",
+            "uid": "a31848ea-a891-4362-9e03-77e02627ac54"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180318", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Göztepe",
+            "uid": "91be2007-2d51-4981-acf8-527b4e86e7dc"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Gençlerbirliği",
+            "uid": "65df1b7c-deb1-4575-b1c4-0c20da057ac2"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Atiker Konyaspor",
+            "uid": "1b7744a9-2baf-4184-8512-32eb54f65c02"
+        }, {
+            "description": "Süper Lig Kayserispor - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Fenerbahçe",
+            "uid": "25de223f-1461-427c-bd98-dacc959aee30"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Kardemir Karabükspor",
+            "uid": "def9ae69-a3be-4f59-b450-c8e7a2b6242e"
+        }, {
+            "description": "Süper Lig Antalyaspor - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Bursaspor",
+            "uid": "d6f4e1f1-9dfd-4550-bea1-48ea2fba2a42"
+        }, {
+            "description": "Süper Lig Göztepe - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Kasımpaşa",
+            "uid": "9373af2b-e8cb-4847-bc95-3f0b5ac98c79"
+        }, {
+            "description": "Süper Lig Beşiktaş - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Aytemiz Alanyaspor",
+            "uid": "e2094641-d64b-4151-9d65-dcb0ae5792f4"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Medipol Başakşehir",
+            "uid": "787c9b08-ee98-491c-b664-3a4f19b57503"
+        }, {
+            "description": "Süper Lig Galatasaray - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180401", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Trabzonspor",
+            "uid": "4669dabf-74ca-49ba-bb75-7e5da6fa51f9"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Antalyaspor",
+            "uid": "f9ab0b92-5cc3-4e76-9fc7-d0b28949fd07"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Demir Grup Sivasspor",
+            "uid": "6e77d4af-d078-4301-86b8-efc99cff6f7d"
+        }, {
+            "description": "Süper Lig Beşiktaş - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Göztepe",
+            "uid": "ad55ef2c-00cd-409b-9ebc-34153ab494ae"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Galatasaray",
+            "uid": "749d0a31-ddfd-4691-a60c-3445e1934015"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Evkur Yeni Malatyaspor",
+            "uid": "27c945ed-8cfb-4e12-badb-9bed0a37ee8e"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Teleset Mob. Akhisarspor",
+            "uid": "6e7e63c5-9c0b-4a4c-81d5-3f09a0c4c041"
+        }, {
+            "description": "Süper Lig Bursaspor - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Kasımpaşa",
+            "uid": "324d1757-7341-4cc0-86d0-214a824c93ea"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Osmanlıspor FK",
+            "uid": "0a7b2446-ea51-47df-aaed-919bd88a563a"
+        }, {
+            "description": "Süper Lig Trabzonspor - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180408", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Kayserispor",
+            "uid": "613bdf33-1d4e-41b8-a29a-985319219525"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Aytemiz Alanyaspor",
+            "uid": "155df643-1829-44a9-90df-87149218e6b9"
+        }, {
+            "description": "Süper Lig Kayserispor - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Gençlerbirliği",
+            "uid": "99d4986a-5280-4698-8906-636b40339831"
+        }, {
+            "description": "Süper Lig Antalyaspor - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Atiker Konyaspor",
+            "uid": "402f4bae-0e3f-493e-bab2-7f5ce671c2f0"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Fenerbahçe",
+            "uid": "661df820-1c31-4242-af5b-cb827adf636a"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Kardemir Karabükspor",
+            "uid": "6c20f854-e267-4f6f-be8a-9d33f1a9005a"
+        }, {
+            "description": "Süper Lig Göztepe - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Bursaspor",
+            "uid": "f6995cfb-71ed-4420-ab0a-8215ac302b65"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Beşiktaş",
+            "uid": "1461f9b5-0f50-4e90-ad95-dce8c9cea05d"
+        }, {
+            "description": "Süper Lig Galatasaray - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Medipol Başakşehir",
+            "uid": "dfaa4538-0f69-4f65-a9a4-5c2e8f01b61e"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180415", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Trabzonspor",
+            "uid": "c2e1597f-6170-4585-b197-636445c63a4d"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Galatasaray",
+            "uid": "2db8c6ad-d165-4622-90eb-6791946e783b"
+        }, {
+            "description": "Süper Lig Trabzonspor - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Demir Grup Sivasspor",
+            "uid": "ef09ae0c-b11d-4c81-9ede-8860651022a8"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Osmanlıspor FK",
+            "uid": "7f037099-14e0-4afb-a03a-b66a5f299fe7"
+        }, {
+            "description": "Süper Lig Beşiktaş - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Evkur Yeni Malatyaspor",
+            "uid": "f07d3b09-354d-470b-a8b5-34bf9e43c078"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Bursaspor",
+            "uid": "97c2f434-9a4f-4283-a2e1-9a299bf9ca6c"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Kasımpaşa",
+            "uid": "614ebdaf-a348-45be-b87d-f287734dedf6"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Antalyaspor",
+            "uid": "ad7a6147-fe67-4939-acc4-0ba927032494"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Kayserispor",
+            "uid": "511edddc-c209-4e8c-83fe-40ed20c50e9b"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180422", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Göztepe",
+            "uid": "520a3355-987f-4d29-929f-d0d1135cf8d6"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Teleset Mob. Akhisarspor",
+            "uid": "18dbe281-bdcc-4341-935f-7d2e8ed2d7c3"
+        }, {
+            "description": "Süper Lig Galatasaray - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Beşiktaş",
+            "uid": "275cb980-d2a3-4d33-81da-20133bbf104f"
+        }, {
+            "description": "Süper Lig Bursaspor - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Atiker Konyaspor",
+            "uid": "9cb581da-e48c-420e-89de-9e942c5f2c16"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Fenerbahçe",
+            "uid": "29c0d209-210c-4cf1-ba81-50e31439e028"
+        }, {
+            "description": "Süper Lig Göztepe - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Kardemir Karabükspor",
+            "uid": "71fcc0b2-091d-42c4-b4bd-b91c13414d68"
+        }, {
+            "description": "Süper Lig Kayserispor - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Aytemiz Alanyaspor",
+            "uid": "bfd1c707-54e5-416f-927d-35843a6a1915"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Medipol Başakşehir",
+            "uid": "f9cec652-7ad1-4e4c-899f-8c0e1a736331"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Gençlerbirliği",
+            "uid": "55cfc38f-2b98-4264-847e-a28f00616841"
+        }, {
+            "description": "Süper Lig Antalyaspor - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180429", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Trabzonspor",
+            "uid": "be10f927-028b-4eea-8933-f7e0ae1fa9c0"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Galatasaray",
+            "uid": "68181269-51f7-4aa8-aaa4-c2f9e77caf8f"
+        }, {
+            "description": "Süper Lig Trabzonspor - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Kasımpaşa",
+            "uid": "52426014-79a2-4fc3-902b-1fd083406210"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Osmanlıspor FK",
+            "uid": "dcfc2099-4425-4fd7-b127-662c55c09160"
+        }, {
+            "description": "Süper Lig Göztepe - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Evkur Yeni Malatyaspor",
+            "uid": "ecee9a35-fb69-4b2a-80d9-4ebf32835b9f"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Bursaspor",
+            "uid": "5abbae98-65ec-4aa5-9204-02759d0d3d52"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Antalyaspor",
+            "uid": "ce4cd79c-0438-4672-aadf-722d7f6b1721"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Demir Grup Sivasspor",
+            "uid": "a06cfd13-b448-462e-879c-0f6d6c6ca8a7"
+        }, {
+            "description": "Süper Lig Beşiktaş - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Kayserispor",
+            "uid": "3ae9f66c-42f2-47b6-88cc-da6284b113ea"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180506", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Atiker Konyaspor",
+            "uid": "01f24089-4421-426e-9ea5-9e23f99d0082"
+        }, {
+            "description": "Süper Lig Osmanlıspor FK - Beşiktaş",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Osmanlıspor FK - Beşiktaş",
+            "uid": "1dc21d18-f055-478f-bd78-60cf8f005710"
+        }, {
+            "description": "Süper Lig Kasımpaşa - Gençlerbirliği",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kasımpaşa - Gençlerbirliği",
+            "uid": "d098ded9-8266-45e2-aa2d-50ad5afbf71e"
+        }, {
+            "description": "Süper Lig Atiker Konyaspor - Göztepe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Atiker Konyaspor - Göztepe",
+            "uid": "3539e3f6-46fa-49e5-9824-425909c6ebb4"
+        }, {
+            "description": "Süper Lig Kardemir Karabükspor - Fenerbahçe",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kardemir Karabükspor - Fenerbahçe",
+            "uid": "4ef24c2a-fb0c-455f-bf05-2de5a560f498"
+        }, {
+            "description": "Süper Lig Galatasaray - Evkur Yeni Malatyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Galatasaray - Evkur Yeni Malatyaspor",
+            "uid": "afb7c6f9-0246-405a-87a9-40fb066548b6"
+        }, {
+            "description": "Süper Lig Kayserispor - Teleset Mob. Akhisarspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Kayserispor - Teleset Mob. Akhisarspor",
+            "uid": "5ce54307-33f3-4c8f-87b2-cc007b1941c4"
+        }, {
+            "description": "Süper Lig Demir Grup Sivasspor - Aytemiz Alanyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Demir Grup Sivasspor - Aytemiz Alanyaspor",
+            "uid": "d3133fe3-e0fa-4ccd-8acd-c699db7a555d"
+        }, {
+            "description": "Süper Lig Antalyaspor - Medipol Başakşehir",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Antalyaspor - Medipol Başakşehir",
+            "uid": "7b3834a7-c60f-432c-acd9-584857249658"
+        }, {
+            "description": "Süper Lig Bursaspor - Trabzonspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180513", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Bursaspor - Trabzonspor",
+            "uid": "64b933d8-eaf8-43d7-b390-365163853273"
+        }, {
+            "description": "Süper Lig Göztepe - Galatasaray",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Göztepe - Galatasaray",
+            "uid": "02cb9ee9-5404-49e0-b427-12ed5c31f158"
+        }, {
+            "description": "Süper Lig Aytemiz Alanyaspor - Antalyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Aytemiz Alanyaspor - Antalyaspor",
+            "uid": "3f094eba-c834-48c6-96b9-8e31f41b59e8"
+        }, {
+            "description": "Süper Lig Evkur Yeni Malatyaspor - Kayserispor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Evkur Yeni Malatyaspor - Kayserispor",
+            "uid": "34a925ee-28a7-4ce8-addd-cf8ace0aec27"
+        }, {
+            "description": "Süper Lig Trabzonspor - Kardemir Karabükspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Trabzonspor - Kardemir Karabükspor",
+            "uid": "0dda468a-bac7-4f75-b83a-03241ea07890"
+        }, {
+            "description": "Süper Lig Gençlerbirliği - Bursaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Gençlerbirliği - Bursaspor",
+            "uid": "11a5a484-2495-4784-940c-505af8d735ee"
+        }, {
+            "description": "Süper Lig Medipol Başakşehir - Kasımpaşa",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Medipol Başakşehir - Kasımpaşa",
+            "uid": "bf81eb9c-fb0f-4c0b-bcbf-06ff98422ac6"
+        }, {
+            "description": "Süper Lig Beşiktaş - Demir Grup Sivasspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Beşiktaş - Demir Grup Sivasspor",
+            "uid": "1dff7570-79cf-4efc-bdcf-73f8a37643b9"
+        }, {
+            "description": "Süper Lig Teleset Mob. Akhisarspor - Osmanlıspor FK",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Teleset Mob. Akhisarspor - Osmanlıspor FK",
+            "uid": "5928675e-b18d-496c-a783-a120481851f8"
+        }, {
+            "description": "Süper Lig Fenerbahçe - Atiker Konyaspor",
+            "dtstamp": "20171105T125625Z",
+            "dtstart": ["20180520", {
+                "value": "DATE"
+            }],
+            "location": "",
+            "sequence": "0",
+            "summary": "Fenerbahçe - Atiker Konyaspor",
+            "uid": "89a71ea4-1a28-4655-8f05-ecf6411e93ac"
+        }]
+    }],
+    "success": true
+}
